@@ -1,0 +1,17 @@
+{
+  "plugins": [
+    {
+      "name": "Ratevars",
+      "className": "Ratevars",
+      "description": "Adds text to the editor.",
+      "path": "src/ratevars.js",
+      "uiComponents": [
+        {
+          "name": "ratevarsButton",
+          "type": "Button",
+          "iconPath": "theme/icons/ckeditor.svg"
+        }
+      ]
+    }
+  ]
+}
